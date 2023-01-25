@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Ashritha
+- SDE Intern at Vitwit Hyderabad
 - 👀 I’m interested in Technolgy in specific Machine Learning, Competetive Coding and Artificial Intelligence
 - 🌱 I’m currently pursuing Bachelor's of Technology in Artificial Intelligence Engineering 
 - 💞️ I’m looking to collaborate on Machine Learning and AI
